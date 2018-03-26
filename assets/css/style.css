@@ -1,0 +1,12 @@
+#movies {
+    margin: 4px;
+}
+
+#gifs {
+    float: left;
+}
+
+#search {
+    float: right;
+    margin-top: 20px;
+}
